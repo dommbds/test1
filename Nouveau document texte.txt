@@ -1,0 +1,72 @@
+
+
+         Voici comment se connect avec sqldeveloper sur la base
+
+- Nom de connexion : NomUser_On_pdbm1ifi(exemple : SORO2B19_On_pdbsatic)
+- Nom utilisateur : nomUser (exemple : SORO2B19)
+- Password : nomUser01 (exemple : SORO2B1901) puis cochez enregistrer le pass
+- Nom d’hôte : 134.59.152.116
+- Port : 443
+- Nom Service : pdbsatic.unice.fr
+- Faire TEST vous devez voir succes
+- Mémorisez la connexion
+
+ cirecrutement@deloitte.com
+ grantthornton@sn.gt.com,
+ gim-uemoa@gim-uemoa.com
+ recrutement@bda.ci
+recrutement@cifipci.com
+recrutement.ci@gtbank.com
+ recrutement.uci@unilevers.com
+rekrutestages2012internship@yahoo.fr
+recrutementci@ecobank.com
+recrutement@sib.com
+emploidbci@diamondbank.com
+ info@cofipa.ci
+brs-ci@groupebrs.com
+ivorycoast@cbm.org
+humaines@internet-ci.com
+recrutement@cbc-ci.com
+ contact@sea-sarl.com
+recrutement@brassivoire.ci
+recrutementnsiavieci@groupensia.com
+job@bic-uemoa.com
+recrutement@resdelmas.com
+recrutement@vipnet.ci
+recrutements.CDI@unilever.com
+joindhl.cotedivoire@dhl.com,
+recrutement@ci.g4s.com
+recrutement@sucafcisomdiaa.com
+recrutement@rfrh.net
+recrutement@afrilandfirstbank.ci
+recruregional@saudequip.com
+HRmining@perseusmining.com
+recrutement@cbc.com
+ceo@lightgroup.holdings
+talentafrique@nholleconsulting.com
+cabinetnce@gmail.com
+compta@propulse-ci.com
+recrutement@sns.ci
+info@bahblesson.com drh.fe@grassavoye.com
+drhrecrutement@cosmivoire.fr
+drhrecrutement@sania.ci
+jobs@advansgroup.com
+joinus-ivorycoast@jumia.com
+ recrut@callivoire.com
+recrute@groupechaka.com
+recrutement@airfrance.com
+recrutement@solibra.ci
+recrutement@webbfontaine.ci
+recrutements@palmci.com
+drhrecrutement@sifca.ci
+recrutement@sotra.ci
+officetrainingesaco@barrycallebaut.com
+emploi@petroivoire.ci
+recrutement@vivoenergy.com
+recrutement.ci@afrilandfirstbankgroup.com
+emploi.sgbci@socgen.com
+corisbank@corisbank.ci
+emlpoidbb@diamondbank.com
+recrutement.baci@banqueatlantique.net
+recrutement@stanepro.com
+office@gecas-ci.com
